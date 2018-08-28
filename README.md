@@ -1,0 +1,2 @@
+# SpringCloudConfigServer
+测试SpringCloud分布式配置中心
